@@ -41,3 +41,17 @@ We take steps to ensure your data's security, but no method of transmission over
 
 Deleting Your Personal Data
 You have the right to delete your Personal Data, and our Service may offer a way to do so. You can update, amend, or delete your information by signing in to your Account or contacting us. However, we may retain certain information when required by law or for legitimate purposes.
+
+Children's Privacy
+Our Service is not intended for children under 13. We do not knowingly collect personal information from children under 13 without parental consent. If we discover such data has been collected, we take steps to remove it.
+
+Links to Other Websites
+Our Service may contain links to third-party websites. Please review their Privacy Policies as we have no control over them.
+
+Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of changes by posting the updated policy and updating the "Last updated" date. Check this page periodically to stay informed.
+
+Contact Us
+If you have any questions about this Privacy Policy, please feel free to contact us at the following email address: xxxxxyyyy@gmail.com.
+
+Thank you for reading and using our Service.
